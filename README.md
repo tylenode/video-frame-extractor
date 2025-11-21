@@ -1,5 +1,8 @@
-# Local frame extractor from video
-Extract a frame at higher res than screenshot
+# Local video frame extractor.
+Extract a frame at higher res than screenshot.
+
+The motivation is this should be something very simple i.e. no need to download third-party software or go on a website and upload your data.
+We can all do-it-ourselves locally. This provides a very quick script to do so
 
 ### Just do this:
 1. Download the package manager `uv`
